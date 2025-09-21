@@ -1,0 +1,15 @@
+Django>=4.2
+djangorestframework
+channels
+channels-redis
+PyJWT
+requests
+python-dotenv
+responses
+pytest
+pytest-django
+pytest-asyncio
+coverage
+uvicorn
+daphne
+dj-database-url
